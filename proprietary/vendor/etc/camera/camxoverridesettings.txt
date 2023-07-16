@@ -1,0 +1,11 @@
+#systemLogEnable=TRUE
+logInfoMask=0x80
+overrideLogLevels=0x00
+#enableMCTF=FALSE
+#exposeFullSizeForQCFA=TRUE
+enableResourceManager=TRUE
+overrideGPURotationUsecase=1
+overrideGPUDownscaleUsecase=1
+multiCameraEnable=TRUE
+AECGainThresholdForQCFA=1.2
+FDFilterEngine=FD_DL_ARM
