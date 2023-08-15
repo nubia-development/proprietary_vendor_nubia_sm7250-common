@@ -605,6 +605,8 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/sm7250-common/proprietary/vendor/firmware/nubia_tk_ver.cyacd:$(TARGET_COPY_OUT_VENDOR)/firmware/nubia_tk_ver.cyacd \
     vendor/nubia/sm7250-common/proprietary/vendor/firmware/nubia_tp_fw.img:$(TARGET_COPY_OUT_VENDOR)/firmware/nubia_tp_fw.img \
     vendor/nubia/sm7250-common/proprietary/vendor/firmware/off.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/off.bin \
+    vendor/nubia/sm7250-common/proprietary/vendor/firmware/sec_s3nrn81_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn81_firmware.bin \
+    vendor/nubia/sm7250-common/proprietary/vendor/firmware/sec_s3nrn81_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn81_rfreg.bin \
     vendor/nubia/sm7250-common/proprietary/vendor/lib/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib/btaudio_offload_if.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@1.0-impl.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib/camera.device@3.2-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.2-impl.so \
