@@ -662,6 +662,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/sm7250-common/proprietary/vendor/firmware/off.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/off.bin \
     vendor/nubia/sm7250-common/proprietary/vendor/firmware/sec_s3nrn81_firmware.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn81_firmware.bin \
     vendor/nubia/sm7250-common/proprietary/vendor/firmware/sec_s3nrn81_rfreg.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/sec_s3nrn81_rfreg.bin \
+    vendor/nubia/sm7250-common/proprietary/vendor/lib/android.hardware.camera.provider@2.4-legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib/android.hardware.camera.provider@2.4-legacy.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib/btaudio_offload_if.so:$(TARGET_COPY_OUT_VENDOR)/lib/btaudio_offload_if.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib/camera.device@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@1.0-impl.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib/camera.device@3.2-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/camera.device@3.2-impl.so \
@@ -1410,6 +1411,7 @@ PRODUCT_COPY_FILES += \
     vendor/nubia/sm7250-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.sensorscalibrate@1.0-impl.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib64/hw/vulkan.adreno.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/vulkan.adreno.so \
+    vendor/nubia/sm7250-common/proprietary/vendor/lib64/android.hardware.camera.provider@2.4-legacy.so:$(TARGET_COPY_OUT_VENDOR)/lib64/android.hardware.camera.provider@2.4-legacy.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib64/lib-imscmservice.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imscmservice.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib64/lib-imsdpl.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imsdpl.so \
     vendor/nubia/sm7250-common/proprietary/vendor/lib64/lib-imsqimf.so:$(TARGET_COPY_OUT_VENDOR)/lib64/lib-imsqimf.so \
